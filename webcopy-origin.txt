@@ -1,0 +1,12 @@
+Uri: https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap
+File Name: C:\Downloaded Web Sites\www.nonexistent.rest\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/pressstart2p/v15/e3t4euO8T-267oIAQAu6jDQyK0nS.ttf
+File Name: C:\Downloaded Web Sites\www.nonexistent.rest\s\pressstart2p\v15\e3t4euO8T-267oIAQAu6jDQyK0nS.ttf
+Content Type: font/ttf
+
+Uri: https://www.nonexistent.rest/
+File Name: C:\Downloaded Web Sites\www.nonexistent.rest\index.htm
+Content Type: text/html
+
